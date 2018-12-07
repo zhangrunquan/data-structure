@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion/w8(1)/main.cpp
+iostream
+-
+merge_sort.h
+D:/Clion/w8(1)/merge_sort.h
+twosum.h
+D:/Clion/w8(1)/twosum.h
+
+D:/Clion/w8(1)/merge_sort.h
+malloc.h
+-
+
+D:/Clion/w8(1)/quick_sort.h
+
+D:/Clion/w8(1)/twosum.h
+malloc.h
+-
+iostream
+-
+vector
+-
+quick_sort.h
+D:/Clion/w8(1)/quick_sort.h
+vector
+-
+
