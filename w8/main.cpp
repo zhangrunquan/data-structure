@@ -1,9 +1,16 @@
 #include <iostream>
-#include "merge_sort.h"
+//#include "merge_sort.h"
 #include "twosum.h"
+#include "merge_sort_list.h"
 using namespace std;
 const int n=8;
 int main() {
+    List l;
+    for (int i = 0; i < n; ++i) {
+        l.addnode(n-i);
+    }
+    merge_sort(l,0,n-1);
+    l.output();
     //mergesort
     /*
     int ar[n]={0};

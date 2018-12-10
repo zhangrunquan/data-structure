@@ -6,17 +6,23 @@
 
 #IncludeRegexTransform: 
 
+D:/Github/data-structure/w8/List.h
+iostream
+-
+
 D:/Github/data-structure/w8/main.cpp
 iostream
 -
-merge_sort.h
-D:/Github/data-structure/w8/merge_sort.h
 twosum.h
 D:/Github/data-structure/w8/twosum.h
+merge_sort_list.h
+D:/Github/data-structure/w8/merge_sort_list.h
 
-D:/Github/data-structure/w8/merge_sort.h
+D:/Github/data-structure/w8/merge_sort_list.h
 malloc.h
 -
+List.h
+D:/Github/data-structure/w8/List.h
 
 D:/Github/data-structure/w8/quick_sort.h
 

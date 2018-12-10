@@ -24,12 +24,12 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Github/data-structure/w8/cmake-build-debug/Makefile&quot;  VERBOSE=1 w8"/>
@@ -45,12 +45,12 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
-					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/mingw32"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
+					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Github/data-structure/w8/cmake-build-debug/Makefile&quot;  VERBOSE=1 w8/fast"/>
@@ -80,10 +80,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Github/data-structure/w8/List.h">
+			<Option target="w8"/>
+		</Unit>
 		<Unit filename="D:/Github/data-structure/w8/main.cpp">
 			<Option target="w8"/>
 		</Unit>
 		<Unit filename="D:/Github/data-structure/w8/merge_sort.h">
+			<Option target="w8"/>
+		</Unit>
+		<Unit filename="D:/Github/data-structure/w8/merge_sort_list.h">
 			<Option target="w8"/>
 		</Unit>
 		<Unit filename="D:/Github/data-structure/w8/quick_sort.h">

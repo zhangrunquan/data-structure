@@ -3,4 +3,4 @@ project(w8)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(w8 main.cpp merge_sort.h twosum.h quick_sort.h)
+add_executable(w8 main.cpp merge_sort.h twosum.h quick_sort.h List.h merge_sort_list.h)
