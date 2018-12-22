@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Github/data-structure/w9/main.cpp
+iostream
+-
+post_order_make_tree.h
+D:/Github/data-structure/w9/post_order_make_tree.h
+algorithm
+-
+
+D:/Github/data-structure/w9/post_order_make_tree.h
+string
+-
+iostream
+-
+vector
+-
+queue
+-
+

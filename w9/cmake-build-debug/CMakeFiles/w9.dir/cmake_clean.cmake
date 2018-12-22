@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/w9.dir/main.cpp.o"
+  "CMakeFiles/w9.dir/main.cpp.obj"
   "w9.pdb"
   "w9.exe"
+  "w9.exe.manifest"
   "libw9.dll.a"
 )
 
