@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Github/data-structure/w10/Node.h
+iostream
+-
+
+D:/Github/data-structure/w10/heap.h
+Node.h
+D:/Github/data-structure/w10/Node.h
+iostream
+-
+
+D:/Github/data-structure/w10/main.cpp
+iostream
+-
+heap.h
+D:/Github/data-structure/w10/heap.h
+
