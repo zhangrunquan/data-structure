@@ -3,4 +3,4 @@ project(w12)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(w12 main.cpp UFset.h)
+add_executable(w12 main.cpp UFset.h Neighbou_table.h Connection.h Nei.h)

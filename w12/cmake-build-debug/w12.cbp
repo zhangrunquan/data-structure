@@ -34,12 +34,12 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++"/>
-					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/mingw32"/>
-					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/backward"/>
-					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
-					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
-					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Github/data-structure/w12/cmake-build-debug/Makefile&quot;  VERBOSE=1 w12"/>
@@ -55,12 +55,12 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++"/>
-					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/mingw32"/>
-					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/backward"/>
-					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include"/>
-					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/../../../../include"/>
-					<Add directory="C:/MinGW/bin/../lib/gcc/mingw32/4.9.2/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Github/data-structure/w12/cmake-build-debug/Makefile&quot;  VERBOSE=1 w12/fast"/>
@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Github/data-structure/w12/Connection.h">
+			<Option target="w12"/>
+		</Unit>
+		<Unit filename="D:/Github/data-structure/w12/Nei.h">
+			<Option target="w12"/>
+		</Unit>
+		<Unit filename="D:/Github/data-structure/w12/Neighbou_table.h">
+			<Option target="w12"/>
+		</Unit>
 		<Unit filename="D:/Github/data-structure/w12/UFset.h">
 			<Option target="w12"/>
 		</Unit>

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Github/data-structure/w12/Connection.h
+
+D:/Github/data-structure/w12/Nei.h
+
+D:/Github/data-structure/w12/Neighbou_table.h
+Connection.h
+D:/Github/data-structure/w12/Connection.h
+Nei.h
+D:/Github/data-structure/w12/Nei.h
+vector
+-
+iostream
+-
+algorithm
+-
+
+D:/Github/data-structure/w12/UFset.h
+
+D:/Github/data-structure/w12/main.cpp
+iostream
+-
+Neighbou_table.h
+D:/Github/data-structure/w12/Neighbou_table.h
+UFset.h
+D:/Github/data-structure/w12/UFset.h
+
