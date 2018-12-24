@@ -11,37 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="380245b6-7485-441c-aea0-189642b7145d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../w10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/w10.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/w10.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/w10.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/w10.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/w10.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/w10.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/w10.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/w10.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/w10.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/CMakeFiles/w10.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w10/cmake-build-debug/w10.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../w10/cmake-build-debug/w10.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../w8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../w9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../w9/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="380245b6-7485-441c-aea0-189642b7145d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UFset.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="608">
+              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -149,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545634867719</updated>
-      <workItem from="1545634869313" duration="1565000" />
+      <workItem from="1545634869313" duration="1823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1565000" />
+    <option name="totallyTimeSpent" value="1823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -197,8 +167,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UFset.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="608">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
         </state>
       </provider>
     </entry>
